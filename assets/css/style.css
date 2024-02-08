@@ -582,6 +582,16 @@ body.nav-active { overflow: hidden; }
   font-size: 2rem;
   flex-shrink: 0;
 }
+/* my css */
+.hospital123 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10rem;
+  width: 100%;
+  height: 500px;
+}
+
 
 
 
